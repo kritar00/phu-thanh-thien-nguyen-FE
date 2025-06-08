@@ -1,0 +1,56 @@
+[
+    {
+        "code": "01",
+        "name": "Hà Nội",
+        "wards": [
+            {
+                "code": "001",
+                "name": "Phường Phúc Xá"
+            },
+            {
+                "code": "002",
+                "name": "Phường Trúc Bạch"
+            },
+            {
+                "code": "003",
+                "name": "Phường Vĩnh Phúc"
+            }
+        ]
+    },
+    {
+        "code": "79",
+        "name": "Hồ Chí Minh",
+        "wards": [
+            {
+                "code": "801",
+                "name": "Phường Bến Nghé"
+            },
+            {
+                "code": "802",
+                "name": "Phường Bến Thành"
+            },
+            {
+                "code": "803",
+                "name": "Phường Phạm Ngũ Lão"
+            }
+        ]
+    },
+    {
+        "code": "48",
+        "name": "Đà Nẵng",
+        "wards": [
+            {
+                "code": "4801",
+                "name": "Phường Hải Châu I"
+            },
+            {
+                "code": "4802",
+                "name": "Phường Hải Châu II"
+            },
+            {
+                "code": "4810",
+                "name": "Phường Bình Hiên"
+            }
+        ]
+    }
+]
